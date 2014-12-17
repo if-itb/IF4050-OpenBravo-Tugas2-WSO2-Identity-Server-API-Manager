@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libs/axiom_1.2.11.wso2v4.jar"/>
+	<classpathentry kind="lib" path="libs/axis2_1.6.1.wso2v10.jar"/>
+	<classpathentry kind="lib" path="libs/commons-codec_1.4.0.wso2v1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-fileupload_1.2.2.wso2v1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-httpclient_3.1.0.wso2v2.jar"/>
+	<classpathentry kind="lib" path="libs/httpcore_4.1.0.wso2v1.jar"/>
+	<classpathentry kind="lib" path="libs/httpcore_4.3.0.wso2v1.jar"/>
+	<classpathentry kind="lib" path="libs/neethi_2.0.4.wso2v4.jar"/>
+	<classpathentry kind="lib" path="libs/org.wso2.carbon.authenticator.proxy_4.2.0.jar"/>
+	<classpathentry kind="lib" path="libs/org.wso2.carbon.logging_4.2.0.jar"/>
+	<classpathentry kind="lib" path="libs/org.wso2.carbon.um.ws.api_4.2.2.jar"/>
+	<classpathentry kind="lib" path="libs/org.wso2.carbon.user.core_4.2.0.jar"/>
+	<classpathentry kind="lib" path="libs/wsdl4j_1.6.2.wso2v4.jar"/>
+	<classpathentry kind="lib" path="libs/XmlSchema_1.4.7.wso2v2.jar"/>
+	<classpathentry kind="lib" path="libs/org.wso2.carbon.authenticator.stub_4.2.0.jar"/>
+	<classpathentry kind="lib" path="libs/org.wso2.securevault_1.0.0.wso2v2.jar"/>
+	<classpathentry kind="lib" path="libs/org.wso2.carbon.user.api_4.2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
